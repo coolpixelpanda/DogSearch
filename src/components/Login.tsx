@@ -27,7 +27,7 @@ const Login = () => {
     <div 
         className="flex justify-center items-center min-h-screen min-w-screen bg-contain bg-no-repeat"
         style={{
-            backgroundImage: "url('src/assets/shelter1.webp'), url('src/assets/shelter2.webp')",
+            backgroundImage: "url('/assets/shelter1.webp'), url('/assets/shelter2.webp')",
             backgroundSize: "50% 100%, 50% 100%",
             backgroundPosition: "left top, right bottom"
         }}
